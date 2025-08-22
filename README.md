@@ -6,3 +6,6 @@ My name is Dominik Mueller. I am Head of Currency Management at B. Metzler seel.
 
 ## Open source
 Everything I publish here is freely accessible under the MIT licence. I strive to credit all external sources and hope you will do likewise when using my work. While I share my research and code openly to foster transparency and collaboration, I cannot release underlying data bound by commercial licence agreements.
+
+## Disclaimer
+Everything I write is my own personal opinion and does not necessarily reflect the opinion of my employer. Nothing I write is investment advice. You invest at your own risk. Past performance is no indicator of future performance.
