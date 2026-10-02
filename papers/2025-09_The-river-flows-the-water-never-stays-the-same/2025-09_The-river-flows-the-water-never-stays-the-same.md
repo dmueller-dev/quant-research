@@ -1,10 +1,12 @@
 # The river flows, the water never stays the same
-FX and Quantitative Research Issue #1
-12 September 2025
+Series: *Quantitative asset allocation & currency risk*  
+Paper: #1, published on 12 September 2025
 
-Dominik Mueller (dominik.mueller@metzler.com)
-*Head of Currency Management at Metzler Capital Markets
-https://www.metzler.com/en/metzler/capital-markets/currency-management*
+#### Author
+
+Dominik Mueller (dominik.mueller@metzler.com)  
+*Head of Currency Management at Metzler Capital Markets*  
+*https://www.metzler.com/fx-overlay*
 
 ### The role of the US dollar from Bretton Woods to today
 The orthogonality of today's events to the past is striking. While the then member states of the newly founded International Monetary Fund (IMF) met in **Bretton Woods** in New Hampshire in 1944 to avoid the mistakes that were made after the First World War and, according to current estimates, contributed to the Great Depression, the world under Donald Trump is now in danger of making similar mistakes to those made a century ago. What does it mean for globally diversified investors if nations once again become more insular and prioritise their own interests over multilateral cooperation in addressing global crises?
@@ -152,9 +154,9 @@ plt.show()
 ```
 
 
-    
+​    
 ![png](files/2025-09_The-river-flows-the-water-never-stays-the-same_3_0.png)
-    
+​    
 
 
 The above illustration shows absolute value changes in the trade-weighted US dollar index in multiples of the data set's historical standard deviation. The maximum value comes in at 9.68 standard deviations on 13 February 1973 when, following negotiations with Germany and Japan, the US dollar was devalued for the second time since the 1971 Smithsonian agreement. To put this in perspective: According to scientific opinion, the universe is 13.8 billion years old. *Statistically* and under the assumption of standard normally distributed data, an event with a magnitude of 9.7 standard deviations is expected to occur with a probability of only 0.1% even over this long time period since the beginning of the universe. This makes apparent that a normal distribution is *not* a suitable measure for modelling prices – regardless of the central limit theorem.

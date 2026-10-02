@@ -1,15 +1,16 @@
 # The contribution of FX to portfolio risk
-FX and Quantitative Research Issue #2
-24 April 2026
-*Written by human beings.*
+Series: *Quantitative asset allocation & currency risk*  
+Paper: #2, published on 24 April 2026
 
-Dominik Mueller, CQF (dominik.mueller@metzler.com)
-*Head of Currency Management at Metzler Capital Markets
-https://www.metzler.com/en/metzler/capital-markets/currency-management*
+#### Authors
 
-Maaz Khan (maaz.khan@metzler.com)
-*Currency Overlay Manager at Metzler Capital Markets
-https://www.metzler.com/en/metzler/capital-markets/currency-management*
+Dominik Mueller, CQF (dominik.mueller@metzler.com)  
+*Head of Currency Management at Metzler Capital Markets*  
+*https://www.metzler.com/fx-overlay*
+
+Maaz Khan (maaz.khan@metzler.com)  
+*Currency Overlay Manager at Metzler Capital Markets*  
+*https://www.metzler.com/fx-overlay*
 
 ### Introduction
 Foreign exchange rates form a substantial portion of an internationally diversified investment portfolio's risk exposures. How much exactly, and how do exchange rates interact with the underlying investments? Which role do individual currency pairs play? This research brief sets out to answer these questions by way of an empirical analysis of a representative model portfolio from the perspective of an investor based in the euro zone.
@@ -100,9 +101,9 @@ fig.show()
 ```
 
 
-    
+​    
 ![png](files/figure01.png)
-    
+​    
 
 
 This is no exception. Although conventional wisdom suggests that exchange rates fluctuate around a long-term equilibrium, history shows numerous periods in which foreign currency exposures have declined in value by 10% or more even within such a relatively short period of time. The point, therefore, is not that foreign exchange is without risk; rather, it is that **FX carries risk for which investors are often not adequately compensated within their portfolios**.
@@ -412,9 +413,9 @@ fig.show()
 ```
 
 
-    
+​    
 ![png](files/figures02-03.png)
-    
+​    
 
 
 ### The results
@@ -528,9 +529,9 @@ fig.show()
 ```
 
 
-    
+​    
 ![png](files/figure04.png)
-    
+​    
 
 
 While this result may appear surprising at first glance, it is naturally a consequence of the high proportion of foreign currencies held within the portfolios of most institutional investors. However, there is also positive news: the inclusion of foreign currencies provides simultaneous diversification benefits, due specifically to the significant weight of the US dollar within the FX basket.
@@ -702,9 +703,9 @@ fig.show()
 ```
 
 
-    
+​    
 ![png](files/figure05.png)
-    
+​    
 
 
 It becomes evident that while foreign currencies contribute significantly to portfolio volatility, their impact on portfolio *drawdowns* necessitates a more nuanced analysis. Although there have been periods during which the unhedged portfolio would have incurred greater drawdowns than its FX-hedged counterpart — such as during the building financial crisis in the year preceding the collapse of Lehman Brothers in September 2008, or more recently in 2025, when the US dollar experienced a loss of confidence following a shift in US political orientation —, it remains noteworthy that there have also been critical phases where foreign currencies effectively mitigated portfolio losses.
