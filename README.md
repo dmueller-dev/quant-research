@@ -23,8 +23,11 @@ US dollar volatility, the dollar's reserve currency status, and its role today.
 #2: **2026-04-24 [The contribution of FX to portfolio risk](https://github.com/dmueller-dev/quant-research/blob/main/papers/2026-04_The-contribution-of-FX-to-portfolio-risk/2026-04_The-contribution-of-FX-to-portfolio-risk.md)**  
 How foreign exchange exposures impact portfolio risk, both in terms of volatility and drawdowns.
 
-#3: **2026-10-XX Functional currency classification in multi-asset portfolios** (Working paper)  
-This paper establishes a functional taxonomy of global currencies based on their macro transmission mechanisms to portfolio risk and return. Work in progress.
+#3: **2026-11-XX Functional currency classification in multi-asset portfolios** (Working paper)  
+This paper establishes a functional taxonomy of global currencies based on their macro transmission mechanisms to portfolio risk and return. *Work in progress.*
+
+#4: **2027-02-XX Developing a robust strategic FX hedging policy by combining top-down and bottom-up analysis** (Working paper)  
+How to develop a robust FX hedging strategy for complex multi-asset portfolios using a disciplined investment process that combines top-down (portfolio-level) and bottom-up (currency-specific) decision-making. *Work in progress.*
 
 ## About the author
 My name is Dominik Mueller. I am Head of Currency Management at B. Metzler seel. Sohn & Co. AG in Frankfurt, one of the world's oldest private banks, family-owned since 1674. I joined Metzler in 2013 to help establish the currency management team, now a leader in FX overlay solutions for institutional and multinational clients. Previously, I worked in currency overlay at Berenberg Bank, developing quantitative FX models and managing client risk, and earlier held roles at banks in Frankfurt, Hamburg, and London. I hold an MSc in finance from Imperial College London (foreign exchange specialisation) and a BSc in business studies (finance and insurance risk management) from the University of Hamburg.
